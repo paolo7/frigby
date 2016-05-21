@@ -1,8 +1,5 @@
 # Frigby
 
-## The Field
-![Frigby field](https://github.com/paolo7/frigby/blob/master/Frigby%20field.jpg)
-
 ## Rules
 
 1. *Game Start/Restart*
@@ -29,3 +26,6 @@
 6. *Priority*
   * While your team has priority the other team cannot touch the frisbee, and they have to drop it if they are holding it. Your priority lasts until a member of your team grabs the frisbee.
   * As soon as you gain priority, if the frisbee was thrown on the ground in the out-field, you can call a "restart in-field" and pause the game to bring the frisbee to the closest point in the in-field from its current location before resuming the game.
+
+## The Field
+![Frigby field](https://github.com/paolo7/frigby/blob/master/Frigby%20field.jpg)
