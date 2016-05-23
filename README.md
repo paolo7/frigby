@@ -29,3 +29,7 @@
 
 ## The Field
 ![Frigby field](https://github.com/paolo7/frigby/blob/master/Frigby%20field.jpg)
+
+
+## Location of the Edinburgh Frigby Field
+![Frigby location](https://github.com/paolo7/frigby/blob/master/Frigby_Location.jpg)
